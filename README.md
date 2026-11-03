@@ -1,2 +1,2 @@
 # moefathi.github.io
-Personal portfolio website showcasing my Computer Science projects, technical skills, and experience.
+Personal portfolio website showcasing my projects, technical skills, and experience.
